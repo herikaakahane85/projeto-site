@@ -4,6 +4,5 @@ Este é um pequeno exemplo de site sendo usado como base para experimentações 
 
 
 
-git status
 
 
